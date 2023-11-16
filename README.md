@@ -25,9 +25,9 @@ ficha para anotar los datos de la venta: código de venta, fecha de la venta, da
 comprador (cliente), datos del vehículo, forma de pago, precio de venta.
 
 Se pide:
-● Crear el diagrama de clases.
-● Crear la aplicación en Java.
-● Crear el Main de Java.
-● ¿Qué etapas tiene el ciclo de vida del software? cómo se llama el ciclo de vida que
+- Crear el diagrama de clases.
+- Crear la aplicación en Java.
+- Crear el Main de Java.
+- ¿Qué etapas tiene el ciclo de vida del software? cómo se llama el ciclo de vida que
 se puede ver en este enunciado?
-● El ejercicio se resolverá haciendo Pull Request.
+- El ejercicio se resolverá haciendo Pull Request.
